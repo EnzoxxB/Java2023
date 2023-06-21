@@ -142,11 +142,19 @@ public class HolaMundo {
         var valorPI = Double.parseDouble("3.1416");
         System.out.println("valorPI = " + valorPI);
 
+<<<<<<< HEAD
         // Pedir valor.
         var entrada = new Scanner(System.in);
         //System.out.println("Digite su edad:");
         //edad = Integer.parseInt(entrada.nextLine());
         //qSystem.out.println("edad: " + edad);
+=======
+        // Pedir valor.*/
+        var entrada = new Scanner(System.in);
+        //System.out.println("Digite su edad:");
+        //edad = Integer.parseInt(entrada.nextLine());
+        //System.out.println("edad: " + edad);
+>>>>>>> 8dd79590f5e9242475036c4d3eb2ed66113e3397
 
         var edadTexto = String.valueOf(10);
         System.out.println("edadTexto = " + edadTexto);
