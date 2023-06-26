@@ -298,7 +298,7 @@ public class HolaMundo {
 
         var numeroT = 7;
         var resultadoT = (numeroT % 2 == 0) ? "El numero es par." : "El número es impar.";
-        System.out.println("numeroT = "+ resultadoT); */
+        System.out.println("numeroT = "+ resultadoT); 
 
         var x = 5;
         var y = 10;
@@ -311,7 +311,7 @@ public class HolaMundo {
         System.out.println("solAritmetica = " + solAritmetica);
 
         solAritmetica = (4 + 5) * 6 / 3; 
-        System.out.println("solAritmetica = " + solAritmetica);
+        System.out.println("solAritmetica = " + solAritmetica);*/
 
     }
 }
