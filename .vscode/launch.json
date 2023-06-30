@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ejercicio2",
+            "request": "launch",
+            "mainClass": "ejercicio2",
+            "projectName": "Java2023_de633d6e"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio1Estaciones",
+            "request": "launch",
+            "mainClass": "ejercicio1Estaciones",
+            "projectName": "Java2023_de633d6e"
+        },
+        {
+            "type": "java",
+            "name": "leccion2",
+            "request": "launch",
+            "mainClass": "leccion2",
+            "projectName": "Java2023_de633d6e"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio5clase8",
+            "request": "launch",
+            "mainClass": "ejercicio5clase8",
+            "projectName": "Java2023_de633d6e"
+        },
+        {
+            "type": "java",
             "name": "ejercicio1",
             "request": "launch",
             "mainClass": "ejercicio1",
