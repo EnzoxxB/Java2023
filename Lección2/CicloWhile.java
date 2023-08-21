@@ -13,7 +13,7 @@ public class CicloWhile {
             contador++;
         } while(contador < 4);
         for(var i = 0; i <= 7; i++){
-            System.out.println("contador = "+ i);
+            System.out.println("contando = "+ i);
         }
     }
 }
